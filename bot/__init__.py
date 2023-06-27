@@ -38,7 +38,7 @@ try:
  api_hash = os.environ.get("API_HASH")
  bot_token = os.environ.get("BOT_TOKEN")
  DATABASE_URL = os.environ.get("DATABASE_URL") 
- BOT_USERNAME = "Sanjeev_Shiva5_bot"
+ BOT_USERNAME = "YUVAKING_COMPRESS_BOT"
  MAX_MESSAGE_LENGTH = 4096
  download_dir = os.environ.get("DOWNLOAD_DIR", "downloads/")
  sudo_users = list(set(int(x) for x in os.environ.get("SUDO_USERS").split()))
